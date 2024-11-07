@@ -21,13 +21,12 @@ h1{
 
 
 .container{
-    background-color: white;
+     background-color: white;
     margin-top:20px;
     width: 700px;
     text-align: center;
     align-self: center;
-    margin-left:460px;
-     
+    margin: auto;     
    
    
 
